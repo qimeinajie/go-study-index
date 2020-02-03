@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 ~2~3 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2018 年 05 月 29 日
+**最后更新时间**：2019 年 10 月 23 日
 
 ## 交流社区
 
@@ -47,6 +47,7 @@ Go 语言学习资料与社区索引
 	- [Martini](https://github.com/go-martini/martini): 一个强大为了编写模块化 Web 应用而生的 Go 语言框架
 	- [Echo](https://echo.labstack.com/): 功能模块齐全, 上手容易, 文档示例齐全
 	- [Gin](https://github.com/gin-gonic/gin)：轻量级 HTTP Web 框架
+	- [Iris](https://github.com/kataras/iris)：Iris 是基于 Go 编写的一个快速，简单但功能齐全且非常高效的 Web 框架
 - ORM 以及数据库驱动：
 	- [xorm](https://github.com/go-xorm/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
@@ -132,10 +133,17 @@ Go 语言学习资料与社区索引
 - GopherCon：
 	- 2014：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBcD_BiJiDJUcyrb2w3bTulF)
 	- 2015：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm)
-	- 2016：[Youtube](https://www.youtube.com/watch?v=KINIAgRpkDA&list=PL2ntRZ1ySWBdliXelGAItjzTMxy2WQh0P)
-	- 2017：[Youtube](https://www.youtube.com/watch?v=ha8gdZ27wMo&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
+	- 2016：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdliXelGAItjzTMxy2WQh0P)
+	- 2017：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
+	- 2018：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdatAqf-2_125H4sGzaWngM)
+	- 2019：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdDyspRTNBIKES1Y-P__59_)
 - Golang UK Conference：
 	- 2015：[Youtube](https://www.youtube.com/playlist?list=PLDWZ5uzn69ezRJYeWxYNRMYebvf8DerHd)
+	- 2016：[Youtube](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g)
+	- 2017：[Youtube](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9)
+	- 2018：[Youtube](https://www.youtube.com/playlist?list=PLDWZ5uzn69ewsMyuGjVsAnpQIjyud1Cv9)
+	- 2019：[Youtube](https://www.youtube.com/playlist?list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ)
+	
 - GopherCon India 2015: [Youtube](https://www.youtube.com/playlist?list=PLxFC1MYuNgJTY3uQ5Ja4F5Sz305nnrBOq)
 
 
